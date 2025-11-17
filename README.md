@@ -436,7 +436,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tayyabcheema777/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/MuhammadTayyabIlyas)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tayyabcheema777@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tayyabcheema777@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tayyabcheema777@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ceo@pakedx.com-orange?style=for-the-badge&logo=gmail)](mailto:ceo@pakedx.com)
 
 **Passionate about AI, Research, and Building Innovative Tools**
 
