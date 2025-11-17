@@ -1,0 +1,43 @@
+# API Keys - DO NOT COMMIT
+.pplx_api_key
+pplx_api_key
+PPLX_API_KEY
+.PPLX_API_KEY
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test files
+test_*.py
+*.test
+
+# Claude Code
+.claude/

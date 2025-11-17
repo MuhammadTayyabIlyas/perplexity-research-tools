@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/tayyabcheema777/research
+./venv/bin/python3 fact_checker.py -t "$@"
